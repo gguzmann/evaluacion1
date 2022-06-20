@@ -36,7 +36,7 @@
 			</div>
 			
 			<div class="form-group">
-			<form:label path="nombre">Nombre:</form:label>
+			<form:label path="nombre">Regalo:</form:label>
 			<form:input class="form-control" path="nombre" />
 			</div>
 			

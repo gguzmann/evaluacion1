@@ -34,7 +34,7 @@
 				<tr>
 					<th scope="col">Origen</th>
 					<th scope="col">Destinatario</th>
-					<th scope="col">Nombre</th>
+					<th scope="col">Regalo</th>
 					<th scope="col">Eliminar</th>
 					<th scope="col">Editar</th>
 				</tr>
